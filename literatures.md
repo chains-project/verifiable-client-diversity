@@ -14,7 +14,7 @@
 
 ## Articles&Blogs
 
-[Ethereum Client Diversity Part 1: Consensus & Finalization](https://www.kiln.fi/post/ethereum-client-diversity-part-1-consensus-finalization)
+[Ethereum Client Diversity Part 1: Consensus & Finalization](https://www.kiln.fi/post/ethereum-client-diversity-part-1-consensus-finalization) | [summary](./summaries/summaries1.md).
 
 [Ethereum Client Diversity Part 2: Execution-layer Diversity](https://www.kiln.fi/post/ethereum-client-diversity-part-2-execution-layer-diversity)
 
