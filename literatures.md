@@ -26,3 +26,6 @@
 [Allowing validators to share client information privately—a project by Nethermind Research](https://ethresear.ch/t/research-report-allowing-validators-to-share-client-information-privately-a-project-by-nethermind-research/19506)
 
 [Correlated slashing: a case for diversification](https://liquidcollective.io/correlated-slashing/)
+
+[Ethereum anti-slashing strategies](https://www.kiln.fi/post/ethereum-anti-slashing-strategies).
+
