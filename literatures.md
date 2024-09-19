@@ -29,3 +29,4 @@
 
 [Ethereum anti-slashing strategies](https://www.kiln.fi/post/ethereum-anti-slashing-strategies).
 
+[Three Years of Ethereum Staking: A Review of Slashing Events and Other Incidents](https://www.chainproof.co/blog/three-years-of-ethereum-staking-a-review-of-slashing-events-and-other)
