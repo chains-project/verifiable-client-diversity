@@ -9,6 +9,8 @@ This will fundamentally enhance network integrity and reliability with verifiabl
 We propose integrating interactive fraud proofs into the Ethereum network such that verified minority clients are rewarded with financial incentives.
 These minority client proofs would require nodes to provide cryptographic evidence of using specific client implementations, verified by other participants in the network. 
 
+Paper: {Proving and Rewarding Client Diversity to Strengthen Resilience of Blockchain Networks](http://arxiv.org/pdf/2411.18401) (Javier Ron, Zheyuan He and Martin Monperrus), Technical report 2411.18401, arXiv, 2024.
+ 
 Team: Javier Ron, Zheyuan He, Martin Monperrus (KTH Royal Institute of Technology, Stockholm, Sweden) Benoit Baudry (Université de Montréal)
 
 ## Design
