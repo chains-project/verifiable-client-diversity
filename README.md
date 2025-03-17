@@ -12,18 +12,3 @@ These minority client proofs would require nodes to provide cryptographic eviden
 Paper: [Proving and Rewarding Client Diversity to Strengthen Resilience of Blockchain Networks](http://arxiv.org/pdf/2411.18401) (Javier Ron, Zheyuan He and Martin Monperrus), Technical report 2411.18401, arXiv, 2024.
  
 Team: Javier Ron, Zheyuan He, Martin Monperrus (KTH Royal Institute of Technology, Stockholm, Sweden) Benoit Baudry (Université de Montréal)
-
-## Design
-
-TBA
-
-## Install
-
-TBA
-
-## License
-
-MIT
-
-
-
